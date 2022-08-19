@@ -46,7 +46,6 @@ fun main() {
     println(" ".repeat(n - 1) + "*")
 
     //Print inner lines
-    //This seems like the most ridiculous way to do this, was there an easier way?
     for (line in n - 3 downTo 0) {
         print(" ".repeat(line + 1) + "*" + " ".repeat((n - 1) - (line + 2)) + "*")
         println()
