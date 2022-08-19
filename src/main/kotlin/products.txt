@@ -1,0 +1,11 @@
+177,Honeydew,463.22
+450,Tangerine,2.5
+100,Durian,12.0
+101,Apricot,4.75
+278,Cantaloupe,100.03
+695,Mango,10.5
+393,Peach,54.0
+186,Orange,4.0
+106,Raspberries,0.99
+315,Kiwi,5.99
+892,Banana,26.71
